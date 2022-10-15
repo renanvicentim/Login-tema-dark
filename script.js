@@ -1,0 +1,3 @@
+<script type='text/javascript'>document.addEventListener('DOMContentLoaded', 
+function () {window.setTimeout(document.querySelector('svg').classList.add('animated'),2000)}
+</script>
